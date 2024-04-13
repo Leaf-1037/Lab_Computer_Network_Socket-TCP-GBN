@@ -1,0 +1,7 @@
+﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  Server.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+d:\Administrator\Desktop\C++Demo\VerySimpleServer\Server.cpp(30,14): warning C4244: “初始化”: 从“std::streamoff”转换到“size_t”，可能丢失数据
+d:\Administrator\Desktop\C++Demo\VerySimpleServer\Server.cpp(107,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+d:\Administrator\Desktop\C++Demo\VerySimpleServer\Server.cpp(210,32): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  VerySimpleServer.vcxproj -> d:\Administrator\Desktop\C++Demo\VerySimpleServer\Debug\VerySimpleServer.exe

@@ -1,0 +1,4 @@
+﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  StopWait.cpp
+d:\Administrator\Desktop\发布给学生的RDT代码\Windows VS2017\StopWait\StopWait.cpp(18,13): warning C4101: “oldcin”: 未引用的局部变量
+  StopWait.vcxproj -> d:\Administrator\Desktop\发布给学生的RDT代码\Windows VS2017\StopWait\Debug\StopWait.exe

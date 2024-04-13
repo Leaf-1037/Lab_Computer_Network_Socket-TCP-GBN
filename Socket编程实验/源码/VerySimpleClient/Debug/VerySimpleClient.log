@@ -1,0 +1,6 @@
+﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  Client.cpp
+d:\Administrator\Desktop\C++Demo\VerySimpleClient\Client.cpp(51,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+d:\Administrator\Desktop\C++Demo\VerySimpleClient\Client.cpp(31,6): warning C4101: “addrLen”: 未引用的局部变量
+Client.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  VerySimpleClient.vcxproj -> d:\Administrator\Desktop\C++Demo\VerySimpleClient\Debug\VerySimpleClient.exe
